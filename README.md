@@ -17,3 +17,6 @@ add support
 infill: 10%-15%
 
 I have designed this product to be efficient as well as keeping it affordable to owners, while having a minimalist design.
+
+The print file should look like this 
+<img width="925" height="541" alt="image" src="https://github.com/user-attachments/assets/bec4b4da-80bb-49e0-a551-69b87a49f22d" />
