@@ -20,3 +20,9 @@ I have designed this product to be efficient as well as keeping it affordable to
 
 The print file should look like this 
 <img width="925" height="541" alt="image" src="https://github.com/user-attachments/assets/bec4b4da-80bb-49e0-a551-69b87a49f22d" />
+
+Printed with bambu labs a1 mini
+
+Credits:
+Fusion 360
+Macondo Hackclub
