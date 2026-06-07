@@ -19,11 +19,15 @@ infill: 10%-15%
 I have designed this product to be efficient as well as keeping it affordable to owners, while having a minimalist design.
 
 The print file should look like this 
+
 <img width="671" height="538" alt="image" src="https://github.com/user-attachments/assets/eca08f94-33fe-44b8-a25a-996fee153c70" />
 
 
-Printed with bambu labs a1 mini
+Printed with bambu labs a1 mini:
+
+<img width="361" height="532" alt="Screenshot 2026-06-07 115506" src="https://github.com/user-attachments/assets/0f49108a-f9ad-4e51-8991-3a5ee1c8907f" />
+
 
 Credits:
-Fusion 360
+Fusion 360,
 Macondo Hackclub
