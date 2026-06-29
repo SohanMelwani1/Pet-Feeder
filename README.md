@@ -29,6 +29,8 @@ Printed with bambu labs a1 mini:
 
 Printable file https://www.printables.com/model/1762464-mini-pet-feeder
 
+Demo: https://www.youtube.com/shorts/zZs2lL2vpmw
+
 
 Credits:
 Fusion 360,
