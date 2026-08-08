@@ -31,6 +31,7 @@ Printable file https://www.printables.com/model/1762464-mini-pet-feeder
 
 Demo: https://www.youtube.com/shorts/zZs2lL2vpmw
 
+Bom:https://docs.google.com/spreadsheets/d/1Uhh9haKRbuH8QMycAo1SU7u1wyofNss6MlX_yosb5hg/edit?usp=sharing
 
 Credits:
 Fusion 360,
