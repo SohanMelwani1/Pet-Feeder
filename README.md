@@ -27,6 +27,12 @@ Printed with bambu labs a1 mini:
 
 <img width="361" height="532" alt="Screenshot 2026-06-07 115506" src="https://github.com/user-attachments/assets/0f49108a-f9ad-4e51-8991-3a5ee1c8907f" />
 
+BOM:
+
+<img width="1006" height="247" alt="image" src="https://github.com/user-attachments/assets/3ec2ab6d-7bf7-4273-8774-1ae7eb833c4d" />
+
+___
+
 Printable file https://www.printables.com/model/1762464-mini-pet-feeder
 
 Demo: https://www.youtube.com/shorts/zZs2lL2vpmw
